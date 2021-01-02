@@ -1,3 +1,7 @@
+
+body{
+    background-color: #ffe17f;
+}
 .grid{
     display: flex;
     flex-wrap: wrap;
