@@ -38,11 +38,11 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name:'sandwitch',
-            img: 'images/sndwitch.png'
+            img: 'images/sandwitch.png'
         },
         {
             name:'sandwitch',
-            img: 'images/sndwitch.png'
+            img: 'images/sandwitch.png'
         },
         {
             name:'pizza',
